@@ -27,7 +27,15 @@ I’m passionate about turning raw data into clear, actionable insights that dri
 ---
 
 ## 📂 Featured Projects  
-*(Links will be added as the repos go live — descriptions included so everything still looks complete.)*
+1. **[Megaline Telecom Plan Recommendation](https://github.com/BTWBrown/Megaline-Telecom-Plan-Recommendation)**
+   - Description: Developed a classification model to help Megaline, a mobile carrier, recommend suitable plans (Smart or Ultra) to subscribers still on legacy plans. Achieved 78% accuracy using Random Forest Classifier.
+
+2. **[Project 2: Data Analysis of Customer Churn](#)**
+   - Description: An exploratory data analysis of customer behavior and churn patterns using Python and SQL.
+
+3. **[Project 3: Predicting House Prices with Regression](#)**
+   - Description: A machine learning project to predict house prices based on features like location, size, and amenities.
+
 
 ### **🔹 Customer Churn Analysis**
 Explored churn patterns using Python, built visualizations, and identified key drivers of customer behavior.  
